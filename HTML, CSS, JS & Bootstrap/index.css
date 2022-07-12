@@ -1,0 +1,21 @@
+body {
+    background-image: url("Background.png");
+
+  }
+  /* a {
+    color: rgb(57, 216, 17);
+    text-transform: uppercase;
+  } */
+  #text1 {
+      color: rgb(245, 14, 14);
+  }
+  #tee{
+      margin-right: 10px;
+  }
+  #pic2{
+      display: block;
+      /* margin: auto; */
+    
+     width: 40%;
+      height: 40%;
+  }
